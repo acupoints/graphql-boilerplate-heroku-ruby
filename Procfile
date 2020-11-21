@@ -1,1 +1,1 @@
-web: yarn && yarn dev -p $PORT
+web: yarn dev -p $PORT
